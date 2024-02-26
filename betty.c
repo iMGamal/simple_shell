@@ -6,7 +6,7 @@
  * Description - program that prints Hello, World
  * Return: Always 0 (Success)
  */
-int main()
+int main(void)
 {
 	printf("Hello, World\n");
 	return (0);
